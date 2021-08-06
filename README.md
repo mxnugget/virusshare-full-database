@@ -18,4 +18,4 @@ enter
 
 **last updated on 6 August 2021**
 
-**ALSO, the script doesn't delete the first 6 rows of every file ("# Malware sample MD5 list for ... ")**
+**ALSO, the script doesn't remove the first 6 rows of every file ("# Malware sample MD5 list for ... ")**
