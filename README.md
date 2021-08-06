@@ -16,5 +16,4 @@ type "node ." or "node index.js"
 
 enter
 
-**last updated on 6 August 2021
-**
+**last updated on 6 August 2021**
